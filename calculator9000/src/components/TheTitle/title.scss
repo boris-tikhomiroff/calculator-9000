@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Trirong:ital@1&display=swap");
+
+.title__container {
+  height: 10vh;
+  width: 100%;
+  position: relative;
+  background-color: #e5dbab;
+  border-radius: 5px;
+}
+.title {
+  text-align: end;
+  padding-right: 5vw;
+  position: absolute;
+  top: 2.5vh;
+  width: 100%;
+  color: #553411;
+  font-family: "Trirong", serif;
+  font-size: 32px;
+}
